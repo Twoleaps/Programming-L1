@@ -97,7 +97,11 @@ or the mentee's preferences.
         - [ ] queue
         - [ ] priority queue
     
-    
-    
-    
-    
+ ### Phase 8
+ - [ ] Data Structure Implementation
+    - [ ] Implementing Singly Linked List
+    - [ ] Implementing Doubly Linked List 
+    - [ ] Implementing a stack
+    - [ ] Implementing a queue
+    - [ ] Implementing a binary tree
+    - [ ] Implementing a Graph
