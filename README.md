@@ -47,34 +47,57 @@ or the mentee's preferences.
     - [ ] Using Switch statement
 
 ### Phase 3 
-- [ ] Mini Project 1
-   - [ ] Defining Problem Statement
-   - [ ] Data Preparation
-      - [ ] Data Cleaning
-      - [ ] Data Transformation
-   - [ ] Data Visualization (Pretty Plots)
-   - [ ] Mathematical Modelling
-   - [ ] Mathematics to Programm
-   - [ ] Model Checking/Feedbak
-  
-- [ ] Project Presentation
-   - [ ] Blog
-   - [ ] Well documented codebase
-   - [ ] Application Development
-
+- [ ] Writing Functions  
+    - [ ] Introducing functions()
+        - [ ] Defining Functions
+        - [ ] Function Prototypes
+        - [ ] Function Call Stack
+        - [ ] Inline Functions
+        - [ ] Function Templates
+    - [ ] Math Functions
+    - [ ] C++ Headers
+    - [ ] Recursion
+ 
 ### Phase 4
-- [ ] Major Project
-   - [ ] Repeat Phase 3
-
+- [ ] Array String and struct
+   - [ ] Arrays
+   - [ ] String
+   - [ ] Struct
+   
 ### Phase 5
-- [ ] Future Scope 
-   - [ ] Deep learning
-   - [ ] Different fields in ML
-       - [ ] Natural Language Processing
-       - [ ] Image recognition
-       - [ ] Signal processing
-   - [ ] Where to go next?
-       - [ ] ML Research
-       - [ ] Kaggle
-
-
+- [ ] Introducing Pointers
+    - [ ] Declare and Initialize
+    - [ ] Pass by Reference
+    - [ ] Relation b/w Array and pointers
+    - [ ] Function Pointers
+    
+### Phase 6
+- [ ] Classes in c++
+    - [ ] What is a class?
+    - [ ] Defining your first class
+    - [ ] Defining Data Members and Member functions
+    - [ ] Using Constructors
+    - [ ] Using *get* and *set*
+    - [ ] Interface and Implementation seperation
+    
+### Phase 7
+- [ ] Standard Template Library (STL)
+    - [ ] Introducing STL
+        - [ ] What is  STL?
+        - [ ] Containers
+        - [ ] Iterators
+    - [ ] Sequence Containers
+        - [ ] vector
+        - [ ] list
+    - [ ] Associative Containers
+        - [ ] set
+        - [ ] map
+    - [ ] Container Adapters
+        - [ ] stack
+        - [ ] queue
+        - [ ] priority queue
+    
+    
+    
+    
+    
